@@ -1,10 +1,10 @@
-package com.example.customerCURDdemo;
+package com.example.customerSimpleCrudDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CustomerCurDdemoApplicationTests {
+class CustomerSimpleCrudDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
